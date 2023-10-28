@@ -1,12 +1,16 @@
 body {
     font-family: 'Minecraft', sans-serif;
-    background-color: #2c2c2c;
+    background-image: url('https://cdn.discordapp.com/attachments/1138054723363160084/1167785939335131196/latest.png?ex=654f6468&is=653cef68&hm=88f2990e026efa766b36a578e9aabd998da73c5ed410e9dc5c66747e9840bd25&');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     color: #ffffff;
     margin: 0;
     display: flex;
     flex-direction: column;
     min-height: 100vh;
 }
+
 
 .container {
     flex: 1;
